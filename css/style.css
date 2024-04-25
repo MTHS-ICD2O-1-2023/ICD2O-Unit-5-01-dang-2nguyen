@@ -39,16 +39,10 @@ img {
   height: auto;
   width: 250px;
   float: right;
+  margin-top: 60px;
 }
 
 body {
   background-color: white;
 }
 
-.formula {
-  color: rgb(0 0 0);
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 2rem;
-  margin-top: 10px;
-  margin-left: 20px;
-}
